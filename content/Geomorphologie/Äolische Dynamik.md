@@ -22,7 +22,7 @@ tags:
 	- Gebundene Dünen (am Hindernis gebunden): Kupste, Sandrampe, Parabeldüne, Leedüne
 	- Freie Dünen: Sicheldüne (Barchan), Akle, Longitudinaldüne
 ---
-## Löss
+## [[Löss]]
 - kalkhaltig
 - äolisch abgelagert
 - stark quarzhaltig

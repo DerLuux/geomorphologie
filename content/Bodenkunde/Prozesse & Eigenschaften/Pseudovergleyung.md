@@ -17,6 +17,7 @@ Pseudogley: Ah/Sw/Sd
 - Gebleichte Stellen (Quartzfarbe scheint durch)
 - Gelblich-Rötliche Stellen (Fe-oxidiert/angereichert)
 - Schwarze Stellen (Mn-oxidiert/angereichert)
+-> [[Hydromorphie]]
 ### Folgen für Pflanzen:
 1. Da Vernässung besonders im Winter/Frühjahr verzögert sich die Erwärmung des Bodens zu Beginn der Vegetationsperiode -> Hemmung des Wurzelwachstums
 2. Während Wasserstau kann es zu Sauerstoffmangel kommen -> Wurzelatmung behindert
