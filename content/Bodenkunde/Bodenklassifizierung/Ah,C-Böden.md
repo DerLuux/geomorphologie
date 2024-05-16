@@ -22,7 +22,7 @@ Nutzung:
 - forstlich
 - meist Laubwald
 - bei Ackerbau -> Humuszehrung
-
+### 1) Ranker
 
 ### 2) Regosol
 Profilaufbau: Ah/eC
