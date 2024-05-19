@@ -29,4 +29,3 @@ EIgenschaften werden beeinflusst durch:
 - Mächtigkeit
 - Relief (je ebener, desto länger verbleibt Wasser im Boden)
 - Klima (stärker je kühler + mehr Niederschlag)
-- 

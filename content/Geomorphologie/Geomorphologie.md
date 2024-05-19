@@ -15,7 +15,7 @@ Hierbei gibt es Überschneidungen mit anderen Geowissenschaften wie der Geologie
 
 - [[Verwitterung]]
 - [[Karst]]
-- [[Massenbewegungen]]
+- [[Gravitative Massenbewegungen]]
 - [[Glaziale Dynamik]]
 - [[Äolische Dynamik]]
 - [[Fluviale Dynamik]]
