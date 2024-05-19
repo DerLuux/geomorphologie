@@ -62,7 +62,7 @@ Die Bodenkunde ist eine Wissenschaft, die sich mit der Bodenentstehung, der Bode
 - [[Bodenstruktur]]
 - [[Bodenacidität]] + Puffersysteme
 - [[Humus]]
-- [[Redoxreaktionen]]
+- [[Redoxreaktionen im Boden]]
 
 ---
 
