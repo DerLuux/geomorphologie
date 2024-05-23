@@ -25,4 +25,4 @@ Unterscheidbar sind hier Translations- und Rotationsrutschungen
 
 ---
 
-![[Rutschungen.png]]
+![[Rutschungen2.png]]
